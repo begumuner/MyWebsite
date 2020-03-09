@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B9504398-F798-4637-9503-E8DCBA6A9BCA}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyWebside PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebside/Pages/Index.cshtml">
+    <Files>
+      <File FileName="MyWebside/Program.cs" Line="1" Column="1" />
+      <File FileName="MyWebside/Pages/Index.cshtml.cs" Line="25" Column="2" />
+      <File FileName="MyWebside/Pages/Index.cshtml" Line="10" Column="21" />
+      <File FileName="MyWebside/Pages/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="MyWebside/137320.JPG" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyWebside" expanded="True">
+            <Node name="MyWebside" expanded="True" selected="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
